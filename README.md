@@ -1,11 +1,12 @@
-### Hi 👋, My name is Usman Ayaz.
+### Hi 👋, My name is Usman Ayaz. :pakistan:
 
-# About me
+# About me :man_student:
+
 > I am Post-Graduate of Electronics Sytem Engineering
 
 > I am Passionate about learning Data Science and Machine Learning
 
-> I enjoy learning new things daily
+> I enjoy learning data science from dataquest platform.
 
 # Skills :technologist:
 
@@ -14,6 +15,9 @@
 > Exploratory Data Analysis using Pandas
 
 > Data Visualization Matplotlib and Seaborn
+
+> Statistics and Probability
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanes70)](https://github.com/anuraghazra/github-readme-stats)
 

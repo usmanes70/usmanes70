@@ -2,9 +2,9 @@
 
 # About me :man_student:
 
-> I am Post-Graduate of Electronics Sytem Engineering
+> I have done my bachelors and masters in Electronics Engineering
 
-> I am Passionate about learning Data Science and Machine Learning
+> I am Passionate about learning Data Science, Machine Learning and Computer Vision.
 
 > I enjoy learning data science from dataquest platform.
 

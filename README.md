@@ -1,4 +1,4 @@
-### Hi 👋, My name is Usman Ayaz. :pakistan:
+### Hi :wave:, This is Usman Ayaz from Pakistan :pakistan:
 
 # About me :man_student:
 

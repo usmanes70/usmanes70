@@ -6,6 +6,11 @@
 > I am Passionate about learning Data Science and Machine Learning
 
 > I enjoy learning new things daily
+
+# Skills :technologist:
+
+: 
+
 <!-- i a
 **usmanes70/usmanes70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

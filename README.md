@@ -6,7 +6,7 @@
 
 > I am Passionate about learning Data Science, Machine Learning and Computer Vision.
 
-> I enjoy learning data science from dataquest platform.
+> I enjoy learning "Data Scientist With Python" track from dataquest platform.
 
 # Skills :technologist:
 

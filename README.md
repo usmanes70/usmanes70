@@ -1,5 +1,7 @@
 ### Hi 👋, My name is Usman Ayaz.
-[G](usmanayaz.arain@gmail.com)
+
+# About me
+
 <!-- i a
 **usmanes70/usmanes70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

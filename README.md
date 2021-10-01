@@ -9,6 +9,15 @@
 
 # Skills :technologist:
 
+> Microsoft Certified Python Programmer
+
+> Exploratory Data Analysis using Pandas
+
+> Data Visualization Matplotlib and Seaborn
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanes70)](https://github.com/anuraghazra/github-readme-stats)
+
+
 : 
 
 <!-- i a

@@ -6,7 +6,9 @@
 
 > I am Passionate about learning Data Science, Machine Learning and Computer Vision.
 
-> I am currently learning "Data Scientist With Python" track from dataquest platform.
+> I am currently learning "Data Scientist With Python" track from datacamp.
+
+> I am currently learning "Data Science with Python (Python Ka Chilla in 40 days)" course by Dr.Muhammad Aammar Tufail.
 
 # Skills :technologist:
 
@@ -14,9 +16,13 @@
 
 > Exploratory Data Analysis using Pandas
 
-> Data Visualization Matplotlib and Seaborn
+> Data Wrangling
+
+> Data Visualization using Matplotlib, Seaborn and Plotly.
 
 > Statistics and Probability
+
+> Good Theoretical and Practical Concepts of Machine Learning Algorithms
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanes70)](https://github.com/anuraghazra/github-readme-stats)

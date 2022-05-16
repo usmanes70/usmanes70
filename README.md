@@ -8,7 +8,7 @@
 
 * I am currently learning "Data Scientist With Python" track from datacamp.
 
-* I have learned the "Data Science with Python (Python Ka Chilla in 40 days)" course with Dr.Muhammad Aammar Tufail.
+* I have learned the "Data Science with Python " course with Dr.Muhammad Aammar Tufail.
 
 # Skills :technologist:
 

@@ -6,7 +6,7 @@
 
 * I am passionate about learning Data Analysis, Machine Learning and Computer Vision.
 
-* I am currently learning "Data Scientist With Python" track from datacamp.
+* I have completed "Data Scientist With Python" track from datacamp.
 
 * I have learned the "Data Science with Python " course with Dr.Muhammad Aammar Tufail.
 
@@ -16,7 +16,7 @@
 
 * Python Programming Language
 
-* R Programming Language
+* Structured Query Language (SQL)
 
 * Exploratory Data Analysis using Pandas
 
